@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.onmeeting.react</groupId>
-  <artifactId>onmeeting-sdk</artifactId>
+  <groupId>org.jitsi.react</groupId>
+  <artifactId>jitsi-meet-sdk</artifactId>
   <versioning>
     <latest>7.0.0</latest>
     <release>7.0.0</release>
