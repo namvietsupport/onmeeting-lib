@@ -203,5 +203,10 @@
       <artifactId>react-native-webview</artifactId>
       <version>11.15.1-jitsi-11101599</version>
     </dependency>
+    <dependency>
+      <groupId>com.facebook.react</groupId>
+      <artifactId>react-native-orientation-locker</artifactId>
+      <version>1.5.0-jitsi-12333498</version>
+    </dependency>
   </dependencies>
 </project>
