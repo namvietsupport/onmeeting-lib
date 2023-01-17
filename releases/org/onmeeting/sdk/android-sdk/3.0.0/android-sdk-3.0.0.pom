@@ -10,8 +10,8 @@
   <dependencies>
     <dependency>
       <groupId>org.onmeeting.react</groupId>
-      <artifactId>onmeeting-sdk</artifactId>
-      <version>5.1.0</version>
+      <artifactId>android-sdk</artifactId>
+      <version>1.0.4</version>
     </dependency>
     <dependency>
       <groupId>com.google.code.gson</groupId>
